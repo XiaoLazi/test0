@@ -1,3 +1,7 @@
 abc
 def
+<<<<<<< HEAD
 bbb
+=======
+aaa
+>>>>>>> dev
